@@ -1,0 +1,60 @@
+
+body{
+    background-color:hwb(34 84% 2% / 0.875);
+}
+div{
+    max-height: 100%;
+    border-radius: 8px;
+    padding: 80px;
+    background-color: aliceblue;
+    width: 500px;
+    margin: 100px;
+    margin-left: 350px;
+}
+img{
+    margin-top: -39px;
+    margin-left: -39px;
+   max-width: 580px;
+   border-radius: 10px;
+}
+h1{
+    margin-left: -39px;
+}
+h2{
+    color: brown;
+    margin-left: -39px;
+}
+h3{
+    color: rgb(200, 16, 142);
+    margin-left: -15px;
+}
+.p1{
+    margin-left: -39px;
+    font-size: 14px;
+}
+ol{
+    margin-left: -58px;
+}
+.Instructions{
+    margin-left: -30px;
+}
+.Instructions1{
+    font-size:15px ;
+    padding-left: 10px;
+}
+span{
+    margin-left: 176px;
+    color: rgb(200, 16, 142);
+}
+.span1{
+    margin-left: 176px;
+}
+.span2{
+    margin-left: 192px;
+}
+.span3{
+    margin-left: 183px;
+}
+.span4{
+    margin-left: 210px;
+}
